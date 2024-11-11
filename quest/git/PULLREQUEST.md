@@ -39,7 +39,7 @@ GitHub にプッシュをしたことのあるローカルリポジトリ（自�
 `git fetch origin`  
 `git merge origin/main`
 
-それができたらローカルリポジトリの pullrequest ブランチを削除してください。  
+- [x] それができたらローカルリポジトリの pullrequest ブランチを削除してください。  
 `git branch -d pullrequest`
 
 ※開発を行う際はここから1に戻り、この1~2のステップを繰り返します
